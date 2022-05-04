@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2046082.chunk.css",
-    "main.js": "/static/js/main.d32f97f0.chunk.js",
-    "main.js.map": "/static/js/main.d32f97f0.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.e67327c7.chunk.css": "/static/css/2.e67327c7.chunk.css",
-    "static/js/2.88defdd1.chunk.js": "/static/js/2.88defdd1.chunk.js",
-    "static/js/2.88defdd1.chunk.js.map": "/static/js/2.88defdd1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7821774bc1bb45ec7e8f689e4c0f42fe.js": "/precache-manifest.7821774bc1bb45ec7e8f689e4c0f42fe.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.e67327c7.chunk.css.map": "/static/css/2.e67327c7.chunk.css.map",
-    "static/css/main.b2046082.chunk.css.map": "/static/css/main.b2046082.chunk.css.map",
-    "static/media/pngwing.com.png": "/static/media/pngwing.com.098ed6f5.png"
+    "main.css": "/booking-manager/static/css/main.b2046082.chunk.css",
+    "main.js": "/booking-manager/static/js/main.f169d985.chunk.js",
+    "main.js.map": "/booking-manager/static/js/main.f169d985.chunk.js.map",
+    "runtime~main.js": "/booking-manager/static/js/runtime~main.0bde0f41.js",
+    "runtime~main.js.map": "/booking-manager/static/js/runtime~main.0bde0f41.js.map",
+    "static/css/2.e67327c7.chunk.css": "/booking-manager/static/css/2.e67327c7.chunk.css",
+    "static/js/2.6faf425a.chunk.js": "/booking-manager/static/js/2.6faf425a.chunk.js",
+    "static/js/2.6faf425a.chunk.js.map": "/booking-manager/static/js/2.6faf425a.chunk.js.map",
+    "index.html": "/booking-manager/index.html",
+    "precache-manifest.710aece00a393f46fcd986c0842174c4.js": "/booking-manager/precache-manifest.710aece00a393f46fcd986c0842174c4.js",
+    "service-worker.js": "/booking-manager/service-worker.js",
+    "static/css/2.e67327c7.chunk.css.map": "/booking-manager/static/css/2.e67327c7.chunk.css.map",
+    "static/css/main.b2046082.chunk.css.map": "/booking-manager/static/css/main.b2046082.chunk.css.map",
+    "static/media/pngwing.com.png": "/booking-manager/static/media/pngwing.com.098ed6f5.png"
   }
 }
